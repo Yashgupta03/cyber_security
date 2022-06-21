@@ -9,4 +9,5 @@ b. Defence-: In this I have uploaded 2 files namely-:
     (i) Network_scanning.py: which perform Synscan and Dns Scan
     (ii)encryption_decryption.py: which encrypt the data transfer and correspondingly decrypt, both code are there marked by comment.
 
-c. Dummy_malware-: This is the malware which I made, which actually obfuscate user .py files in local current directories and store all the code in the form of space seperated list, and join the virus_code to user .py file and payload with infinite loop of print statements.
+c. Dummy_malware-: This is the folder which contains malware which I made, which actually obfuscate user .py files in local current directories and store all the code in the form of space seperated list, and join the virus_code to user .py file and payload with infinite loop of print statements.
+And folder Ransomware which has code for encryption and decryption and .key file for key and one txt file for testing.
